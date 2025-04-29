@@ -1,4 +1,4 @@
-# langchain-tools
+# langchain-tools 🦜🔗
 Just a bunch of small tools I made and used to improve how LangChain agents process and understand text.
 
 These are lightweight, fast, and easy to plug into your existing LangChain workflows. 
